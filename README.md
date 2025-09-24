@@ -6,6 +6,8 @@ The Flink Food Delivery App is a modern UI/UX concept design I created in Figma 
 
 The project showcases mobile-first design principles, incorporating branded color schemes, intuitive layouts, and engaging visual elements to simulate a real-world food delivery application.
 
+----
+
 🎯 Objectives
 
 Design a user-centric mobile interface for food ordering.
@@ -17,6 +19,8 @@ Integrate promotional banners for discounts and free delivery campaigns.
 Showcase Top Picks section with ratings and pricing.
 
 Ensure brand alignment with Flink’s vibrant identity.
+
+---
 
 ✅ Key Features
 
@@ -30,6 +34,8 @@ Ensure brand alignment with Flink’s vibrant identity.
 
 🛒 Intuitive Navigation Bar: Smooth access to cart, favorites, and account.
 
+---
+
 🛠️ Tools Used
 
 Figma – UI/UX design and prototyping.
@@ -38,6 +44,8 @@ Canva Pro – Supporting visuals and graphic elements.
 
 Illustrations & Icons – For engaging category and promo designs.
 
+---
+
 📂 Project Type
 
 Mobile App UI/UX Design
@@ -45,6 +53,8 @@ Mobile App UI/UX Design
 Food Delivery App Prototype
 
 Brand Identity & Visual Design
+
+---
 
 
 🔗 Project Resources
